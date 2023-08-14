@@ -1,0 +1,258 @@
+.main{
+    height: 400px;
+    width: 1000px;
+    background: #eee;
+    margin: 0 auto;
+}
+/* ========> Div one's child Start here <=========== */
+.a{
+    width: 333px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+.b{
+    width: 333px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+.c{
+    width: 333px;
+    height: 100px;
+    background-color: cyan;
+    float: left;
+}
+.aa{
+    float: left;
+    height: 50px;
+    width: 333px;
+    background-color: rgb(64, 0, 255);
+}
+.ab{
+    float: left;
+    height: 50px;
+    width: 333px;
+    background-color: yellow;
+}
+.aba{
+    height: 50px;
+    width: 111px;
+    background-color: black;
+    float: left;
+}
+.abb{
+    height: 50px;
+    width: 111px;
+    background-color: cornflowerblue;
+    float: left;
+}
+.abc{
+    height: 50px;
+    width: 111px;
+    background-color: yellow;
+    float: left;
+}
+.ca{
+    width: 333px;
+    height: 50px;
+    background-color: black;
+}
+.cb{
+    width: 333px;
+    height: 50px;
+    background-color: rgb(198, 24, 24);
+}
+.caa{
+    width: 111px;
+    height: 50px;
+    background-color: yellow;
+    float: left;
+}
+.cab{
+    width: 111px;
+    height: 50px;
+    background-color: rgb(11, 15, 243);
+    float: left;
+}
+.cac{
+    width: 111px;
+    height: 50px;
+    background-color: rgb(81, 255, 13);
+    float: left;
+}
+/* ========> Div one's child end here <=========== */
+/* ========> Div two's child Start here <=========== */
+.be{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    float: left;
+}
+.ba{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(115, 19, 224);
+    float: left;
+}
+.bb{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(13, 255, 0);
+    float: left;
+}
+.bc{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 200, 0);
+    float: left;
+}
+.bd{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(128, 0, 255);
+    float: left;
+}
+.bba{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(255, 0, 47);
+}
+.bbb{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(12, 13, 11);
+}
+.bbba{
+    height: 50px;
+    width: 100px;
+    float: left;
+    background-color: chartreuse;
+}
+.bbbb{
+    height: 50px;
+    width: 100px;
+    float: left;
+    background-color: rgb(44, 80, 8);
+}
+/* ========> Div two's child end here <=========== */
+/* ========> Div three's child start here <=========== */
+.cca{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(28, 204, 139);
+    float: left;
+}
+.ccb{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(100, 16, 16);
+    float: left;
+}
+.ccc{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(46, 144, 64);
+    float: left;
+}
+.ccd{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(92, 31, 173);
+    float: left;
+}
+.ccba{
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+}
+.ccbb{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(156, 241, 64);
+}
+.ccbba{
+    width: 125px;
+    height: 50px;
+    float: left;
+    background-color: darkblue;
+}
+.ccbbb{
+    width: 125px;
+    height: 50px;
+    float: left;
+    background-color: rgb(156, 241, 64);;
+}
+/* ========> Div three's child end here <=========== */
+/* ========> Div four's child end here <=========== */
+.dda{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(37, 227, 103);
+}
+.ddb{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(53, 12, 12);
+}
+.ddc{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(17, 171, 195);
+}
+.ddd{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(242, 255, 0);
+}
+.dde{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(9, 255, 0);
+}
+.ddf{
+    width: 166.66px;
+    height: 100px;
+    float: left;
+    background-color: rgb(34, 0, 255);
+}
+.ddaa{
+    width: 166.66px;
+    height: 50px;
+    background-color: #fff;
+}
+.ddab{
+    width: 166.66px;
+    height: 50px;
+    background-color: green;
+}
+.ddaaa{
+    width: 83px;
+    height: 50px;
+    background-color: #ef0b0b;
+    float: left;
+}
+.ddaab{
+    width: 83px;
+    height: 50px;
+    background-color: yellow;
+    float: left;
+}
+.ddfa{
+    width: 83px;
+    height: 50px;
+    background-color: yellow;
+    float: left;
+}
+.ddfb{
+    width: 83px;
+    height: 50px;
+    background-color: rgb(27, 27, 20);
+    float: left;
+}
+/* ========> Div four's child end here <=========== */
